@@ -24,7 +24,10 @@ O repositório está dividido para mostrar a evolução do desenvolvimento:
 3.  **Load**: 
     * Simulação de `PUT` para atualizar os dados na API original.
     * Geração de arquivo CSV (`auditoria_usuarios.csv`) para conferência visual.
-  
+
+## 🖥️ Demonstração
+![Execução do Pipeline de ETL](img/resultado_terminal.png)
+
 ## 🚀 Como Executar
 1. Clone o repositório: `git clone https://github.com/emilysk49/etl-python-ia.git`
 2. Instale as dependências: `pip install -r requirements.txt`
